@@ -1,0 +1,7 @@
+.row1 {
+	width: 33.3%;
+	box-sizing: border-box;
+	float: left;
+	background-color: yellow;
+	text-align: center;
+}
